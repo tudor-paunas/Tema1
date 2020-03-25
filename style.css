@@ -1,11 +1,11 @@
-body{
+body {
     background-color: whitesmoke;
 }
 
 
 div.container {
 
-    margin:0 auto;
+    margin: 0 auto;
     padding: 1rem 2rem;
     max-width: 50rem;
     font-family: monospace;
@@ -30,26 +30,23 @@ div.header {
     border-bottom: 2px solid black;
     margin-bottom: 30px;
     padding: 12px 0px;
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 
-.h8{
+.h8 {
     font-size: 18px;
 }
 
 
-div.navigation > a {
+div.navigation>a {
 
     color: red;
 }
 
 a {
     text-decoration: none;
-    color:black;
+    color: black;
     font-weight: bolder;
 
 }
-
-
-
