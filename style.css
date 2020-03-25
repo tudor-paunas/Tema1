@@ -1,0 +1,55 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+div.container {
+
+    margin:0 auto;
+    padding: 1rem 2rem;
+    max-width: 50rem;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+
+div.logo {
+
+    float: left;
+}
+
+
+#navigation {
+
+    text-align: right;
+
+}
+
+
+div.header {
+    border-bottom: 2px solid black;
+    margin-bottom: 30px;
+    padding: 12px 0px;
+    text-decoration: none; 
+}
+
+
+.h8{
+    font-size: 18px;
+}
+
+
+div.navigation > a {
+
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+
+}
+
+
+
